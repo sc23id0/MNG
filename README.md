@@ -1,0 +1,2 @@
+# MNG
+project: MANAGER
